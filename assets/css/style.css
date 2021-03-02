@@ -202,11 +202,11 @@ body{
   color: rgba(0, 0, 0, 0.452);
 }
 #htmlBar{
-  width: 60%;
+  width: 50%;
   background-image: repeating-linear-gradient(67.5deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),repeating-linear-gradient(140deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),linear-gradient(275deg, rgb(209,205,205),rgb(0,52,89));
 }
 #cssBar{
-  width: 60%;
+  width: 50%;
   background-image: repeating-linear-gradient(67.5deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),repeating-linear-gradient(140deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),linear-gradient(275deg, rgb(209,205,205),rgb(0,52,89));
 }
 #javasBar{
@@ -214,7 +214,7 @@ body{
   background-image: repeating-linear-gradient(67.5deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),repeating-linear-gradient(140deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),linear-gradient(275deg, rgb(209,205,205),rgb(0,52,89));
 }
 #bootBar{
-  width: 60%;
+  width: 50%;
   background-image: repeating-linear-gradient(67.5deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),repeating-linear-gradient(140deg, hsla(145,0%,97%,0.2) 0px, hsla(145,0%,97%,0.2) 0px,transparent 0px, transparent 1px,hsla(145,0%,97%,0.2) 1px, hsla(145,0%,97%,0.2) 4px,transparent 4px, transparent 5px,hsla(145,0%,97%,0.2) 5px, hsla(145,0%,97%,0.2) 8px),linear-gradient(275deg, rgb(209,205,205),rgb(0,52,89));
 }
 #phpBar{
@@ -232,7 +232,6 @@ body{
 
 /* SECTION PROJETS */
 .projetContainer {
-    padding: 5%;
     box-shadow: 8px 7px 2px rgb(128, 128, 128);
     border-radius: 5px;
     border: 1px solid black;

@@ -17,8 +17,8 @@ function age() {
   const birth = new Date(1981, 2, 9, 12, 00);
   let dateNow = new Date();
   let elapsedTime = (dateNow - birth)
-  let years = elapsedTime / (3600 * 24 * 365 * 1000);
-  let days = elapsedTime % (3600 * 24 * 365 * 1000);
+  let years = elapsedTime / (3600 * 24 * 365.25 * 1000);
+  let days = elapsedTime % (3600 * 24 * 365.25 * 1000);
   let fullDaysCount = days / (3600 * 24 * 1000);
   let hours = days % (3600 * 24 * 1000);
   let fullHoursCount = hours / (3600 * 1000);
